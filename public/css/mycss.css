@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(190, 190, 190, 0.562);
+}
+nav{
+    background-color: slategrey;
+}
+nav a{
+    color: white;
+}
+nav a:hover{
+    color: rgb(97, 97, 97);
+}
+.card-header{
+    background-color: slategrey;
+    color: white;
+
+}
+.card button{
+    padding:  7px 25px;
+    font-size: medium;
+    border: none;
+    background-color: slategrey;
+    color: white;
+    transition: .5s;
+}
